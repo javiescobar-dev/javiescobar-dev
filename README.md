@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Javi Escobar Fernández
 
-<!--
-**javiescobar-dev/javiescobar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Backend Game Developer & SysAdmin especializado en C++, infraestructuras Linux y bases de datos. Acabo de finalizar el CFGS en Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-Here are some ideas to get you started:
+En este perfil encontrarás mis proyectos más recientes de desarrollo móvil y multiplataforma, [como mi TFG PaseDeGol](https://github.com/javiescobar-dev/proyectoDAM) *(Código público próximamente tras la evaluación en junio)*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Experiencia Open Source y Backend
+
+Llevo más de 10 años desarrollando en el ecosistema Open Source (principalmente aportes en C++ para motores como TrinityCore) y administrando servidores. Todo mi historial histórico y contribuciones de la última década se encuentran bajo mi alias de desarrollo principal: [@Jildor](https://github.com/jildor).
+
+## 🛠️ Stack Tecnológico
+
+* **Lenguajes:** C++, Kotlin, Java, Python, SQL, PL/SQL.
+* **Infraestructura & BD:** Servidores Debian, MySQL / MariaDB.
+* **DevOps & Monitorización:** Git, Grafana, InfluxDB, GDB, Address Sanitizer.
+* **Móvil & Herramientas:** Android Studio, Firebase, Stripe.
+* **IDEs & Software:** VS Code, Pycharm, ItelliJ, Netbeans, Eclipse, SQLYog, PuTTY, WinSCP, Figma, Jira.
+
+## 📫 Cómo contactarme
+
+* **Email:** javi.escobar.dev@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/javi-escobar-fern%C3%A1ndez-071166309/
