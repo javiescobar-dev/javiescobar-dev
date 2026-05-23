@@ -14,7 +14,7 @@ Llevo más de 10 años desarrollando en el ecosistema Open Source (principalment
 * **Infraestructura & BD:** Servidores Debian, MySQL / MariaDB.
 * **DevOps & Monitorización:** Git, Grafana, InfluxDB, GDB, Address Sanitizer.
 * **Móvil & Herramientas:** Android Studio, Firebase, Stripe.
-* **IDEs & Software:** VS Code, Pycharm, ItelliJ, Netbeans, Eclipse, SQLYog, PuTTY, WinSCP, Figma, Jira.
+* **IDEs & Software:** VS Code, Pycharm, IntelliJ, Netbeans, Eclipse, SQLYog, PuTTY, WinSCP, Figma, Jira.
 
 ## 📫 Cómo contactarme
 
