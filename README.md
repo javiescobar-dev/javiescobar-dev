@@ -19,4 +19,4 @@ Llevo más de 10 años desarrollando en el ecosistema Open Source (principalment
 ## 📫 Cómo contactarme
 
 * **Email:** javi.escobar.dev@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/javi-escobar-fern%C3%A1ndez-071166309/
+* **LinkedIn:** https://www.linkedin.com/in/javi-escobar-dev
